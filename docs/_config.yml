@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: 墨尔本咖啡豆追踪器
+description: 每周更新的墨尔本主要咖啡烘焙商最新咖啡豆信息
+markdown: kramdown
+kramdown:
+  input: GFM

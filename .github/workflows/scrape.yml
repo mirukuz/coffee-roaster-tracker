@@ -1,0 +1,52 @@
+name: 每周抓取咖啡豆数据
+
+on:
+  schedule:
+    # 每周日 UTC 22:00 = 墨尔本时间周一早上 8:00 (AEDT) / 9:00 (AEST)
+    - cron: '0 22 * * 0'
+  workflow_dispatch: # 允许在 Actions 页面手动触发
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 需要写权限以 push 更新
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Validate scraper output
+        run: |
+          REPORT="output/coffee_report_$(date +%Y-%m-%d).md"
+          if [ ! -s "$REPORT" ]; then
+            echo "::error::Scraper 未生成报告文件: $REPORT"
+            exit 1
+          fi
+          echo "REPORT_PATH=$REPORT" >> $GITHUB_ENV
+
+      - name: Copy report to docs/index.md (with Jekyll front matter)
+        run: |
+          mkdir -p docs
+          printf -- '---\nlayout: default\n---\n\n' > docs/index.md
+          cat "$REPORT_PATH" >> docs/index.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.md
+          git diff --staged --quiet || git commit -m "chore: update coffee report $(date +%Y-%m-%d)"
+          git pull --rebase
+          git push
