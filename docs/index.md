@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-02-27 21:10:23
+更新时间：2026-03-01 22:15:15
 
 ---
 
@@ -34,7 +34,7 @@ layout: default
 
 ---
 
-## Proud Mary（18款）
+## Proud Mary（17款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -51,7 +51,6 @@ layout: default
 | Ethiopia \| Halo Beriti \| Heirloom \| Washed | Ethiopia | Natural | $36.00 / 250g | [购买](https://proudmarycoffee.com.au/products/ethiopia-halo-bereti-heirloom-washed) |
 | Mexico \| Santa Cruz \| Typica & Bourbon \| Washed | Mexico | Washed | $36.00 / 250g | [购买](https://proudmarycoffee.com.au/products/mexico-santa-cruz-typica-bourbon-washed) |
 | Nicaragua \| Buenos Aires \| Maracaturra \| Natural | Nicaragua | Natural | $37.00 / 250g | [购买](https://proudmarycoffee.com.au/products/nicaragua-buenos-aires-maracaturra-natural-1) |
-| Ethiopia \| Lalesa \| Heirloom \| Natural | Ethiopia | Natural | $37.00 / 250g | [购买](https://proudmarycoffee.com.au/products/ethiopia-lalesa-gedeb-heirloom-natural) |
 | Mexico \| Santa Cruz \| Geisha \| Washed | Mexico | Washed | $63.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/mexico-santa-cruz-geisha-washed) |
 | PROUD MARY SPECIALTY INSTANT COFFEE \| WILD \| Benti Nenka | Ethiopia | Natural | $25.00 / Default Title | [购买](https://proudmarycoffee.com.au/products/proud-mary-specialty-instant-coffee-wild-benti-nenka) |
 | Chocolate Bunnies \| Limited Edition Blend | Brazil / Costa Rica | Natural | $24.00 / 250g | [购买](https://proudmarycoffee.com.au/products/limited-edition-chocolate-bunnies-blend) |
@@ -107,7 +106,7 @@ layout: default
 
 ---
 
-## Ona Coffee（42款）
+## Ona Coffee（41款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -126,7 +125,6 @@ layout: default
 | Filter Drip Bags - Gaaki AB, Kenya, Washed | Kenya | Washed | $16.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op2-q1) |
 | Filter Drip Bags - Raspberry Candy | — | — | $20.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip-bags-raspberry-candy) |
 | Finca Recinas, Colombia, Washed | Colombia | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/filter-y-sof3) |
-| Finca San Isidro, Honduras, Washed | Honduras | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/filter-z-sof2) |
 | Gateway | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/gateway) |
 | Guji Masina G1, Ethiopia, Washed | Ethiopia | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-x-soe1) |
 | Instant Coffee - Aspen | — | — | $15.00 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-aspen) |
@@ -187,4 +185,4 @@ layout: default
 
 ---
 
-*数据质量：产地提取率 73/131 (56%) | 处理法提取率 67/131 (51%)*
+*数据质量：产地提取率 71/129 (55%) | 处理法提取率 65/129 (50%)*
