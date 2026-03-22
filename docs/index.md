@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-03-15 22:18:49
+更新时间：2026-03-22 22:16:51
 
 ---
 
@@ -34,7 +34,7 @@ layout: default
 
 ---
 
-## Proud Mary（18款）
+## Proud Mary（19款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -48,7 +48,6 @@ layout: default
 | Mild Coffee Subscription | — | — | $26.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/mild-coffee-subscription) |
 | Wild Coffee Subscription | — | — | $32.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/wild-coffee-subscription) |
 | Mexico \| Santa Cruz \| Typica & Bourbon \| Washed | Mexico | Washed | $36.00 / 250g | [购买](https://proudmarycoffee.com.au/products/mexico-santa-cruz-typica-bourbon-washed) |
-| Nicaragua \| Buenos Aires \| Maracaturra \| Natural | Nicaragua | Natural | $37.00 / 250g | [购买](https://proudmarycoffee.com.au/products/nicaragua-buenos-aires-maracaturra-natural-1) |
 | PROUD MARY SPECIALTY INSTANT COFFEE \| WILD \| Benti Nenka | Ethiopia | Natural | $25.00 / Default Title | [购买](https://proudmarycoffee.com.au/products/proud-mary-specialty-instant-coffee-wild-benti-nenka) |
 | Chocolate Bunnies \| Limited Edition Blend | Brazil / Costa Rica | Natural | $24.00 / 250g | [购买](https://proudmarycoffee.com.au/products/limited-edition-chocolate-bunnies-blend) |
 | Kenya \| Kii \| SL-28 & SL-34 \| Washed | Kenya | Washed | $37.00 / 250g | [购买](https://proudmarycoffee.com.au/products/kenya-kii-sl-28-sl-34-washed) |
@@ -56,6 +55,8 @@ layout: default
 | Panama \| Finca Momoto - Camino \| Geisha \| Natural | Panama | Natural | $62.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-finca-momoto-camino-geisha-natural-1) |
 | Ethiopia \| Nigist Girmachew \| Heirloom \| Natural | Ethiopia | Natural | $35.00 / 250g | [购买](https://proudmarycoffee.com.au/products/ethiopia-nigist-girmachew-heirloom-natural) |
 | Nicaragua \| Monte Libano \| Caturra \| Washed | Nicaragua | Washed | $35.00 / 250g | [购买](https://proudmarycoffee.com.au/products/nicaragua-monte-libano-caturra-washed) |
+| Honduras \| Nahun Fernandez \| Parainema \| Natural | Honduras | Natural | $39.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-nahun-fernandez-parainema-natural-1) |
+| Honduras \| La Salvaje COE #1B \| Geisha \| Washed | Honduras / El Salvador | Natural | $115.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/honduras-la-salvaje-coe-1b-geisha-washed) |
 
 ---
 
@@ -82,10 +83,11 @@ layout: default
 
 ---
 
-## Common Folk（13款）
+## Common Folk（14款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Starmix | Peru | — | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/starmix_26) |
 | Bom Jesus | Brazil | Natural | $26.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/bom-jesus_26) |
 | 3005 | — | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/3005_26) |
 | Elgon Natural | Uganda | Natural | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/elgon-natural_25) |
@@ -102,7 +104,7 @@ layout: default
 
 ---
 
-## Ona Coffee（42款）
+## Ona Coffee（43款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -118,24 +120,25 @@ layout: default
 | Digital Gift Card | — | — | $200.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card) |
 | Drip Bags - Iris Estate Afterglow, Panama, Natural | Panama | Natural | $32.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-reserve-1-q2) |
 | Drip Bags - Siko G2, Ethiopia, Washed | Ethiopia | Washed | $16.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q2) |
+| El Avión, Nicaragua, Washed | Nicaragua | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-x-soe2) |
 | El Plan del Hoyo, El Salvador, Washed | El Salvador | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/soe) |
 | Filter Drip Bags - El Plan Del Hoyo, El Salvador, Washed | El Salvador | Washed | $16.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op4-q1) |
 | Filter Drip Bags - Gaaki AB, Kenya, Washed | Kenya | Washed | $16.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op2-q1) |
 | Filter Drip Bags - Raspberry Candy | — | — | $20.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip-bags-raspberry-candy) |
 | Finca Deborah Nirvana, Panama, Natural | Panama | Natural | $104.25 / 200g | [购买](https://onacoffee.com.au/products/filter-reserve-y-rsof1) |
 | Finca Don Joaquin 'Tributos del Ota', Costa Rica, Anaerobic Washed | Costa Rica | Anaerobic | $20.00 / 200g | [购买](https://onacoffee.com.au/products/filter-z-sof3) |
-| Finca Putushio, Ecuador, Washed | Ecuador | Washed | $76.75 / 200g | [购买](https://onacoffee.com.au/products/espresso-reserve-x-rsoe1) |
 | Gateway | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/gateway) |
+| Guji PB, Ethiopia, Washed | Ethiopia | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-z-soe1) |
+| Heritage Varieties of Bambito Estate | — | — | $60.00 / 3x80g | [购买](https://onacoffee.com.au/products/heritage-varieties-of-bambito-estate) |
 | Instant Coffee - Aspen | — | — | $15.00 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-aspen) |
 | Instant Coffee - Chelchelle G1, Ethiopia, Natural | Ethiopia | Natural | $15.00 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-chelchelle-g1-ethiopia-natural) |
 | Instant Coffee - Gititu AB, Kenya, Washed | Kenya | Washed | $15.00 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-mutheka-kiandu-ab-kenya-washed) |
 | Instant Coffee - Maple | — | — | $15.00 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-maple) |
 | Instant Coffee - Raspberry Candy | — | — | $19.00 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-candy) |
 | Iris Estate Illumination, Panama, CM Washed | Panama | Washed | $82.25 / 200g | [购买](https://onacoffee.com.au/products/filter-reserve-w-rsof2) |
-| Kainamui PB, Kenya, Washed | Kenya | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/filter-x-sof1) |
 | Kathakwa AB, Kenya, Washed | Kenya | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-x-soe1-1) |
-| La Bendición, Nicaragua, CM Natural Amber | Nicaragua | Natural | $24.00 / 200g | [购买](https://onacoffee.com.au/products/milk-w-som1) |
-| La Esperanza, Costa Rica, Natural | Costa Rica | Natural | $20.00 / 200g | [购买](https://onacoffee.com.au/products/la-esperanza-costa-rica-natural) |
+| La Esmeralda 'La Cumbre', Costa Rica, Honey | Costa Rica | Honey | $20.00 / 200g | [购买](https://onacoffee.com.au/products/la-esmeralda-la-cumbre-costa-rica-honey) |
+| La Picona, Nicaragua, Washed | Nicaragua | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/filter-w-sof3) |
 | Maple | — | — | $16.00 / 200g | [购买](https://onacoffee.com.au/products/maple) |
 | Milk-Blend Bundle | — | — | $64.00 / 200g | [购买](https://onacoffee.com.au/products/milk-blend-bundle) |
 | Morning Made Original Matcha Latte | — | — | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/morning-made-original-matcha-latte) |
@@ -179,9 +182,9 @@ layout: default
 | Brazil, Fazenda Samambaia - Single Origin Espresso | Brazil | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/brazil-fazenda-samambaia-natural) |
 | Brazil, Fazenda do Cruzeiro - Single Origin Espresso | Brazil | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/brazil-fazenda-do-cruzeiro-natural) |
 | Colombia, Paola Trujillo Wush Wush - Single Origin Filter | Colombia | — | $29.90 / 120g | [购买](https://padrecoffee.com.au/products/colombia-paola-trujillo-wush-wush-washed-filter) |
-| Colombia, Paola Trujillo Typica - Single Origin Filter | Colombia | Honey | $24.00 / 120g | [购买](https://padrecoffee.com.au/products/colombia-paola-trujillo-typica-washed-filter) |
+| Colombia, Paola Trujillo Typica - Single Origin Filter | Colombia | Honey | $24.90 / 120g | [购买](https://padrecoffee.com.au/products/colombia-paola-trujillo-typica-washed-filter) |
 | Colombia, Paola Trujillo Caturra - Single Origin Espresso | Colombia | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/colombia-paola-trujillo-caturra-washed) |
 
 ---
 
-*数据质量：产地提取率 70/128 (55%) | 处理法提取率 63/128 (49%)*
+*数据质量：产地提取率 72/131 (55%) | 处理法提取率 64/131 (49%)*
