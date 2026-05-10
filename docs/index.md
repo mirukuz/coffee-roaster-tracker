@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-05-03 22:31:41
+更新时间：2026-05-10 22:37:35
 
 ---
 
@@ -53,7 +53,7 @@ layout: default
 
 ---
 
-## Seven Seeds（14款）
+## Seven Seeds（15款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -61,6 +61,8 @@ layout: default
 | Golden Gate Espresso Blend | — | — | $19.00 / 250g | [购买](https://sevenseeds.com.au/products/golden-gate-blend) |
 | F. Bomb Filter Blend | — | — | $23.00 / 250g | [购买](https://sevenseeds.com.au/products/f-bomb-filter-blend) |
 | La Serrania, Decaf, Colombia | Colombia | Honey | $24.00 / 250G | [购买](https://sevenseeds.com.au/products/la-serrania-decaf-colombia) |
+| Takesi Geisha, Bolivia | Bolivia | — | $16.00 / 20g Tube | [购买](https://sevenseeds.com.au/products/takesi-geisha-bolivia-2026) |
+| Takesi Java, Bolivia | Bolivia / Ethiopia / Indonesia | — | $10.00 / 20g Tube | [购买](https://sevenseeds.com.au/products/takesi-java-bolivia-2026) |
 | Santuario Sul Sudan Rume, Brazil | Brazil | Natural | $27.00 / 250g | [购买](https://sevenseeds.com.au/products/santuario-sul-sudan-rume-brazil) |
 | Fazenda Engenho, Brazil | Brazil | Washed | $29.00 / 250g | [购买](https://sevenseeds.com.au/products/fazenda-engenho-brazil) |
 | Arbaey Ortega, Colombia | Colombia / Ethiopia | Washed | $30.00 / 250g | [购买](https://sevenseeds.com.au/products/arbaey-ortega-colombia) |
@@ -70,24 +72,26 @@ layout: default
 | Cold Filter Cask | — | — | $30.00 / 2L | [购买](https://sevenseeds.com.au/products/cold-filter-cask) |
 | Frinsa Collective, Indonesia | Honduras / Indonesia | Washed | $25.00 / 200g | [购买](https://sevenseeds.com.au/products/frinsa-collective-indonesia) |
 | Yandaro, Burundi | Burundi / Rwanda | Honey | $27.00 / 250g | [购买](https://sevenseeds.com.au/products/yandaro-burundi-2026) |
-| Ukuku, Peru | Peru | Natural | $22.00 / 250g | [购买](https://sevenseeds.com.au/products/ukuku-peru-2026) |
 
 ---
 
-## Common Folk（6款）
+## Common Folk（9款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Nyeri | Kenya | Washed | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/nyeri_25) |
+| Mando | Tanzania | Washed | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/mando_26) |
 | Pink Bourbon Honey | Colombia | Honey | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/pink-bourbon-honey_25f) |
 | Bom Jesus | Brazil | Natural | $26.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/bom-jesus_26) |
 | Finca Miravalle | Mexico | Natural | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/finca-miravelle_26) |
 | Café descafeinado de México | Mexico | — | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/cafe-descafeinado-de-mexico_25) |
+| Uvuu Factory [2025] | Kenya | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/uvuu-factory_25) |
 | Filter Lucky Dip | — | — | $22.00 / Filter | [购买](https://commonfolkcoffee.com.au/products/filter-lucky-dip) |
 | Espresso Lucky Dip | — | — | $22.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/karinga-kenya) |
 
 ---
 
-## Ona Coffee（41款）
+## Ona Coffee（38款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -111,11 +115,8 @@ layout: default
 | Instant Coffee - Gititu AB, Kenya, Washed | Kenya | Washed | $15.00 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-mutheka-kiandu-ab-kenya-washed) |
 | Instant Coffee - Maple | — | — | $15.00 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-maple) |
 | Instant Coffee - Raspberry Candy | — | — | $19.00 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-candy) |
-| Iris Estate Echo, Panama, CM Washed | Panama | Washed | $84.50 / 200g | [购买](https://onacoffee.com.au/products/espresso-reserve-y-rsoe1) |
-| Iris Estate Illumination, Panama, CM Washed | Panama | Washed | $82.25 / 200g | [购买](https://onacoffee.com.au/products/filter-reserve-w-rsof2) |
-| Irmãs Pereira Lot 153, Brazil, Natural | Brazil | Natural | $20.00 / 200g | [购买](https://onacoffee.com.au/products/filter-x-sof4) |
 | Kamachungwa AB, Kenya, Washed | Kenya | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-w-soe1) |
-| Koke 2425, Ethiopia, CM Natural Amber | Ethiopia | Natural | $27.25 / 200g | [购买](https://onacoffee.com.au/products/milk-z-som1) |
+| La Esmeralda, Panama, Mixed Process | Panama | — | $114.50 / 200g | [购买](https://onacoffee.com.au/products/filter-reserve-z-rsof1) |
 | La Huerta, Honduras, Washed | Honduras | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/filter-x-sof2) |
 | Maple | — | — | $16.00 / 200g | [购买](https://onacoffee.com.au/products/maple) |
 | Milk-Blend Bundle | — | — | $64.00 / 200g | [购买](https://onacoffee.com.au/products/milk-blend-bundle) |
@@ -127,15 +128,15 @@ layout: default
 | Raspberry Candy Filter | — | — | $24.00 / 200g | [购买](https://onacoffee.com.au/products/raspberry-candy-filter) |
 | Reserve Filter Drip Bag Box - Janson Family, Panama, Natural | Panama | Natural | $29.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-reserve-2-q1) |
 | Reserve Instant Coffee - Iris Estate Ambrosia, Panama, Nitrogen Washed | Panama | Washed | $49.00 / Default Title | [购买](https://onacoffee.com.au/products/reserve-instant-coffee-iris-estate-ambrosia-panama-nitrogen-washed) |
-| San Pablo, Honduras, Washed | Honduras | Washed | $20.00 / 200g | [购买](https://onacoffee.com.au/products/san-pablo-honduras-washed) |
 | Unwind | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/unwind) |
 | Uraga 1025, Ethiopia, Nitrogen Washed Amber | Ethiopia | Washed | $27.50 / 200g | [购买](https://onacoffee.com.au/products/espresso-y-rare) |
+| Uraga Addis, Ethiopia, Supernatural | Ethiopia | Natural | $20.50 / 200g | [购买](https://onacoffee.com.au/products/milk-w-som1) |
 | Yirgacheffe Amederaro, Ethiopia, Supernatural | Ethiopia | Natural | $24.25 / 200g | [购买](https://onacoffee.com.au/products/filter-x-rare) |
 | Yirgacheffe, Ethiopia, Natural | Ethiopia | Natural | $20.00 / 200g | [购买](https://onacoffee.com.au/products/filter-x-sof3) |
 
 ---
 
-## Padre Coffee（19款）
+## Padre Coffee（17款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -156,9 +157,7 @@ layout: default
 | Colombia, Paola Trujillo Wush Wush - Single Origin Filter | Colombia | — | $29.90 / 120g | [购买](https://padrecoffee.com.au/products/colombia-paola-trujillo-wush-wush-washed-filter) |
 | Colombia, Paola Trujillo Typica - Single Origin Filter | Colombia | Honey | $24.90 / 120g | [购买](https://padrecoffee.com.au/products/colombia-paola-trujillo-typica-washed-filter) |
 | Colombia, Paola Trujillo Caturra - Single Origin Espresso | Colombia | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/colombia-paola-trujillo-caturra-washed) |
-| Brazil, Rafael Vinhal - Single Origin Filter | Brazil | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/brazil-rafael-vinhal-anaerobic-natural-filter) |
-| Brazil, Rafael Vinhal - Single Origin Espresso | Brazil | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/brazil-rafael-vinhal-anaerobic-natural) |
 
 ---
 
-*数据质量：产地提取率 56/105 (53%) | 处理法提取率 50/105 (48%)*
+*数据质量：产地提取率 55/104 (53%) | 处理法提取率 48/104 (46%)*
