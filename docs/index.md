@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-05-31 22:51:05
+更新时间：2026-06-07 22:54:37
 
 ---
 
@@ -28,7 +28,7 @@ layout: default
 
 ---
 
-## Proud Mary（18款）
+## Proud Mary（20款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -50,10 +50,12 @@ layout: default
 | Costa Rica \| Volcan Azul \| Villa Sarchi \| Natural | Costa Rica / Mexico | Natural | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/costa-rica-volcan-azul-villa-sarchi-natural) |
 | Panama \| Altieri Estate - Alessa \| Geisha \| Natural | Panama | Natural | $83.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-altieri-estate-alessa-geisha-natural) |
 | El Salvador \| La Siberia \| Red Bourbon \| Washed | El Salvador | Washed | $30.00 / 250g | [购买](https://proudmarycoffee.com.au/products/el-salvador-la-siberia-red-bourbon-washed) |
+| Winter Solstice \| Limited Edition Blend | Ethiopia / Honduras | Natural | $24.00 / 250g | [购买](https://proudmarycoffee.com.au/products/winter-solstice-limited-edition-blend) |
+| Panama \| Mama Cata Estate \| Pacamara \| ASD Natural | Panama / El Salvador | Anaerobic | $60.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-mama-cata-estate-pacamara-asd-natural) |
 
 ---
 
-## Seven Seeds（11款）
+## Seven Seeds（12款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -65,16 +67,19 @@ layout: default
 | Coffee Drip Bags | Ethiopia | Washed | $15.00 / Default Title | [购买](https://sevenseeds.com.au/products/coffee-drip-bags) |
 | Cold Filter Cask | — | — | $30.00 / 2L | [购买](https://sevenseeds.com.au/products/cold-filter-cask) |
 | Frinsa Collective, Indonesia | Honduras / Indonesia | Washed | $25.00 / 200g | [购买](https://sevenseeds.com.au/products/frinsa-collective-indonesia) |
-| Yandaro, Burundi | Burundi / Rwanda | Honey | $27.00 / 250g | [购买](https://sevenseeds.com.au/products/yandaro-burundi-2026) |
 | El Conjuro, Peru | Peru | — | $28.00 / 250g | [购买](https://sevenseeds.com.au/products/el-conjuro-peru-2026) |
 | Matambo, Decaf, Colombia | Colombia | Natural | $24.00 / 250G | [购买](https://sevenseeds.com.au/products/matambo-decaf-colombia) |
+| Ichuga, Kenya | Kenya | — | $28.00 / 250g | [购买](https://sevenseeds.com.au/products/ichuga-kenya-2026) |
+| Gicherori, Kenya | Kenya | Washed | $28.00 / 250g | [购买](https://sevenseeds.com.au/products/gicherori-kenya-2026) |
 
 ---
 
-## Common Folk（7款）
+## Common Folk（9款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Nkonge Washed | Burundi | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/nkonge-washed_26) |
+| Nkonge Natural | Burundi | Natural | $30.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/nkonge-natural_26) |
 | El Diviso | Colombia | — | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/el-diviso_26) |
 | Nyeri | Kenya | Washed | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/nyeri_25) |
 | Mando | Tanzania | Washed | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/mando_26) |
@@ -130,7 +135,7 @@ layout: default
 
 ---
 
-## Padre Coffee（20款）
+## Padre Coffee（22款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -146,15 +151,17 @@ layout: default
 | Fresh Crop Subscription | — | — | $40.00 / Espresso | [购买](https://padrecoffee.com.au/products/fresh-crop-subscription) |
 | Day Dripper Drip Coffee Bags - Lucky Boy | — | — | $23.00 / Default Title | [购买](https://padrecoffee.com.au/products/day-dripper-drip-coffee-bags-lucky-boy-blend-box-of-10) |
 | Hot Shot Coffee Pods - Troublemaker Espresso | — | — | $35.00 / 30 Pack | [购买](https://padrecoffee.com.au/products/hot-shot-coffee-pods-troublemaker-espresso) |
-| Padre Easy Tiger Coffee Concentrate 375ml | — | — | $12.00 / Default Title | [购买](https://padrecoffee.com.au/products/padre-easy-tiger-coffee-concentrate-375ml) |
+| Padre Easy Tiger Coffee Concentrate 375ml | — | — | $14.95 / Default Title | [购买](https://padrecoffee.com.au/products/padre-easy-tiger-coffee-concentrate-375ml) |
 | Hot Shot Coffee Pods - Decaf Organic | Mexico | — | $35.00 / 30 Pack | [购买](https://padrecoffee.com.au/products/hot-shot-coffee-pods-decaf-organic) |
 | Colombia, Paola Trujillo Wush Wush - Single Origin Filter | Colombia | — | $29.90 / 120g | [购买](https://padrecoffee.com.au/products/colombia-paola-trujillo-wush-wush-washed-filter) |
 | Colombia, Paola Trujillo Typica - Single Origin Filter | Colombia | Honey | $24.90 / 120g | [购买](https://padrecoffee.com.au/products/colombia-paola-trujillo-typica-washed-filter) |
 | Colombia, Jairo Arcila - Single Origin Filter | Colombia | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/colombia-jairo-arcila-200hr-natural-single-origin-filter) |
 | Rwanda Mwit - Single Origin Espresso | Rwanda | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/indonesia-frinsa-single-origin-espresso) |
 | Colombia Luz Helena - Single Origin Espresso | Colombia | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/indonesia-frinsa-single-origin-espresso-copy) |
+| Brazil Gabriel Nunes  - Single Origin Espresso | Brazil | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/brazil-gabriel-nunes-single-origin-espresso) |
+| Brazil Gabriel Nunes  - Single Origin Filter | Brazil | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/brazil-gabriel-nunes-single-origin-filter) |
 | Colombia Luz Helena  - Single Origin Filter | Colombia | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/colombia-luz-helena-single-origin-filter) |
 
 ---
 
-*数据质量：产地提取率 51/101 (50%) | 处理法提取率 43/101 (43%)*
+*数据质量：产地提取率 58/108 (54%) | 处理法提取率 47/108 (44%)*
