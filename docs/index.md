@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-06-07 22:54:37
+更新时间：2026-06-14 22:59:20
 
 ---
 
@@ -28,7 +28,7 @@ layout: default
 
 ---
 
-## Proud Mary（20款）
+## Proud Mary（19款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -41,17 +41,16 @@ layout: default
 | Curious Coffee Subscription | — | — | $29.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/curious-coffee-subscription) |
 | Mild Coffee Subscription | — | — | $26.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/mild-coffee-subscription) |
 | Wild Coffee Subscription | — | — | $32.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/wild-coffee-subscription) |
-| PROUD MARY SPECIALTY INSTANT COFFEE \| WILD \| Benti Nenka | Ethiopia | Natural | $25.00 / Default Title | [购买](https://proudmarycoffee.com.au/products/proud-mary-specialty-instant-coffee-wild-benti-nenka) |
 | Nicaragua \| Monte Libano \| Caturra \| Washed | Nicaragua | Washed | $35.00 / 250g | [购买](https://proudmarycoffee.com.au/products/nicaragua-monte-libano-caturra-washed) |
-| Honduras \| Nahun Fernandez \| Parainema \| Natural | Honduras | Natural | $39.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-nahun-fernandez-parainema-natural-1) |
-| Honduras \| Nahun Fernandez \| Parainema \| Honey | Honduras | Washed | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-nahun-fernandes-parainema-honey) |
-| Honduras \| Ovidio Gomez \| Geisha \| Honey | Honduras | Honey | $62.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/honduras-ovidio-gomez-geisha-honey) |
 | Nicaragua \| Buenos Aires \| Maracaturra \| Washed | Nicaragua | Natural | $36.00 / 250g | [购买](https://proudmarycoffee.com.au/products/nicaragua-buenos-aires-maracaturra-washed-1) |
 | Costa Rica \| Volcan Azul \| Villa Sarchi \| Natural | Costa Rica / Mexico | Natural | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/costa-rica-volcan-azul-villa-sarchi-natural) |
-| Panama \| Altieri Estate - Alessa \| Geisha \| Natural | Panama | Natural | $83.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-altieri-estate-alessa-geisha-natural) |
+| Honduras \| Nahun Fernandez \| Parainema \| Honey | Honduras | Washed | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-nahun-fernandes-parainema-honey) |
 | El Salvador \| La Siberia \| Red Bourbon \| Washed | El Salvador | Washed | $30.00 / 250g | [购买](https://proudmarycoffee.com.au/products/el-salvador-la-siberia-red-bourbon-washed) |
-| Winter Solstice \| Limited Edition Blend | Ethiopia / Honduras | Natural | $24.00 / 250g | [购买](https://proudmarycoffee.com.au/products/winter-solstice-limited-edition-blend) |
+| PROUD MARY SPECIALTY INSTANT COFFEE \| WILD \| Benti Nenka | Ethiopia | Natural | $25.00 / Default Title | [购买](https://proudmarycoffee.com.au/products/proud-mary-specialty-instant-coffee-wild-benti-nenka) |
+| Panama \| Altieri Estate - Alessa \| Geisha \| Natural | Panama | Natural | $83.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-altieri-estate-alessa-geisha-natural) |
 | Panama \| Mama Cata Estate \| Pacamara \| ASD Natural | Panama / El Salvador | Anaerobic | $60.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-mama-cata-estate-pacamara-asd-natural) |
+| Colombia \| Area 18 \| Castillo \| Natural | Colombia | Natural | $36.00 / 250g | [购买](https://proudmarycoffee.com.au/products/colombia-area-18-castillo-natural) |
+| Winter Solstice \| Limited Edition Blend | Ethiopia / Honduras | Natural | $24.00 / 250g | [购买](https://proudmarycoffee.com.au/products/winter-solstice-limited-edition-blend) |
 
 ---
 
@@ -62,7 +61,6 @@ layout: default
 | Seven Seeds House Blend | Brazil / Peru | Natural | $21.00 / 250g | [购买](https://sevenseeds.com.au/products/seven-seeds-espresso-blend) |
 | Golden Gate Espresso Blend | — | — | $19.00 / 250g | [购买](https://sevenseeds.com.au/products/golden-gate-blend) |
 | F. Bomb Filter Blend | — | — | $23.00 / 250g | [购买](https://sevenseeds.com.au/products/f-bomb-filter-blend) |
-| Santuario Sul Bourbon, Brazil | Brazil | Natural | $27.00 / 250g | [购买](https://sevenseeds.com.au/products/santuario-sul-bourbon-brazil) |
 | Chirinos, Peru | Peru | Extended Fermentation | $28.00 / 250g | [购买](https://sevenseeds.com.au/products/chirinos-peru-2026) |
 | Coffee Drip Bags | Ethiopia | Washed | $15.00 / Default Title | [购买](https://sevenseeds.com.au/products/coffee-drip-bags) |
 | Cold Filter Cask | — | — | $30.00 / 2L | [购买](https://sevenseeds.com.au/products/cold-filter-cask) |
@@ -71,6 +69,7 @@ layout: default
 | Matambo, Decaf, Colombia | Colombia | Natural | $24.00 / 250G | [购买](https://sevenseeds.com.au/products/matambo-decaf-colombia) |
 | Ichuga, Kenya | Kenya | — | $28.00 / 250g | [购买](https://sevenseeds.com.au/products/ichuga-kenya-2026) |
 | Gicherori, Kenya | Kenya | Washed | $28.00 / 250g | [购买](https://sevenseeds.com.au/products/gicherori-kenya-2026) |
+| Willyan Zambrano, Colombia | Colombia | Experimental | $33.00 / 250g | [购买](https://sevenseeds.com.au/products/willyan-colombia-2026) |
 
 ---
 
@@ -94,8 +93,8 @@ layout: default
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Ama Project Blush Lot 1, Brazil, Nitrogen Washed | Brazil | Washed | $30.00 / 200g | [购买](https://onacoffee.com.au/products/cofosof-rare-opz) |
 | Aspen | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/aspen) |
-| Bambito Estate, Panama, Natural | Panama | Natural | $36.50 / 200g | [购买](https://onacoffee.com.au/products/filter-y-rare) |
 | Bench Maji, Ethiopia, Washed | Ethiopia | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-x-soe1) |
 | Digital Gift Card | — | — | $30.00 / Default Title | [购买](https://onacoffee.com.au/products/ona-coffee-gift-card-1) |
 | Digital Gift Card | — | — | $50.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-50) |
@@ -106,7 +105,6 @@ layout: default
 | Drip Bags - Iris Estate Afterglow, Panama, Natural | Panama | Natural | $32.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-reserve-1-q2) |
 | Drip Bags - Siko G2, Ethiopia, Washed | Ethiopia | Washed | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q2) |
 | Filter Drip Bags - Raspberry Candy | — | — | $21.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip-bags-raspberry-candy) |
-| Finca Pampojila, Guatemala, Natural | Guatemala | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-x-sof4) |
 | Finca Quejina, Guatemala, Washed | Guatemala | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-w-soe3) |
 | Gateway | — | — | $19.00 / 200g | [购买](https://onacoffee.com.au/products/gateway) |
 | Instant Coffee - Aspen | — | — | $16.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-aspen) |
@@ -115,6 +113,7 @@ layout: default
 | Instant Coffee - Maple | — | — | $16.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-maple) |
 | Instant Coffee - Raspberry Candy | — | — | $20.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-candy) |
 | Iris Estate Symmetry, CM Natural | — | Natural | $85.00 / 200g | [购买](https://onacoffee.com.au/products/filter-reserve-x-rsof1) |
+| Jumay, Guatemala, Anaerobic Natural | Guatemala | Anaerobic | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-y-sof4) |
 | La Cima del Cielo, Honduras, Washed | Honduras | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-z-sof2) |
 | La Esperanza, Costa Rica, Natural | Costa Rica | Natural | $29.50 / 200g | [购买](https://onacoffee.com.au/products/milk-x-som1) |
 | La Huerta, Honduras, Washed | Honduras | Washed | $43.50 / 200g | [购买](https://onacoffee.com.au/products/espresso-z-rare) |
@@ -126,12 +125,12 @@ layout: default
 | Morning Made Vanilla Matcha Latte | — | — | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/d) |
 | Raspberry Candy | — | — | $24.00 / 200g | [购买](https://onacoffee.com.au/products/raspberry-candy) |
 | Raspberry Candy Filter | — | — | $26.00 / 200g | [购买](https://onacoffee.com.au/products/raspberry-candy-filter) |
-| Reserve Filter Drip Bag Box - Janson Family, Panama, Natural | Panama | Natural | $29.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-reserve-2-q1) |
 | Reserve Instant Coffee - Iris Estate Ambrosia, Panama, Nitrogen Washed | Panama | Washed | $49.00 / Default Title | [购买](https://onacoffee.com.au/products/reserve-instant-coffee-iris-estate-ambrosia-panama-nitrogen-washed) |
 | Unwind | — | — | $22.00 / 200g | [购买](https://onacoffee.com.au/products/unwind) |
 | Yirgacheffe Chelbesa G1, Ethiopia, Washed | Ethiopia | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-w-sof1) |
 | Yirgacheffe Chelchele G1, Ethiopia, Natural | Ethiopia | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-z-soe2) |
 | Yirgacheffe Halo G1, Ethiopia, Natural | Ethiopia | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-y-sof3) |
+| Yirgacheffe, Ethiopia, Natural | Ethiopia | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/milk-y-som1) |
 
 ---
 
@@ -164,4 +163,4 @@ layout: default
 
 ---
 
-*数据质量：产地提取率 58/108 (54%) | 处理法提取率 47/108 (44%)*
+*数据质量：产地提取率 57/107 (53%) | 处理法提取率 46/107 (43%)*
