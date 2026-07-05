@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-06-28 22:55:03
+更新时间：2026-07-05 22:53:13
 
 ---
 
@@ -28,7 +28,7 @@ layout: default
 
 ---
 
-## Proud Mary（17款）
+## Proud Mary（18款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -49,6 +49,7 @@ layout: default
 | Panama \| Mama Cata Estate \| Pacamara \| ASD Natural | Panama / El Salvador | Anaerobic | $60.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-mama-cata-estate-pacamara-asd-natural) |
 | Colombia \| Area 18 \| Castillo \| Natural | Colombia | Natural | $36.00 / 250g | [购买](https://proudmarycoffee.com.au/products/colombia-area-18-castillo-natural) |
 | Winter Solstice \| Limited Edition Blend | Ethiopia / Honduras | Natural | $24.00 / 250g | [购买](https://proudmarycoffee.com.au/products/winter-solstice-limited-edition-blend) |
+| Brazil \| Dois Irmaos \| Catuai \| Natural | Brazil | Natural | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/brazil-dois-irmaos-yellow-catuai-natural) |
 
 ---
 
@@ -86,11 +87,12 @@ layout: default
 
 ---
 
-## Ona Coffee（42款）
+## Ona Coffee（44款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
 | Ama Project Blush Lot 1, Brazil, Nitrogen Washed | Brazil | Washed | $30.00 / 200g | [购买](https://onacoffee.com.au/products/cofosof-rare-opz) |
+| Ama Project Lot Botafogo, Brazil, Superhoney | Brazil | Honey | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-singleorigin-ama-project-lot-botafogo-brazil-superhoney) |
 | Aspen | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/aspen) |
 | Bench Maji, Ethiopia, Washed | Ethiopia | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-x-soe1) |
 | Digital Gift Card | — | — | $30.00 / Default Title | [购买](https://onacoffee.com.au/products/ona-coffee-gift-card-1) |
@@ -102,11 +104,14 @@ layout: default
 | Drip Bags - Iris Estate Afterglow, Panama, Natural | Panama | Natural | $32.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-reserve-1-q2) |
 | Drip Bags - Siko G2, Ethiopia, Washed | Ethiopia | Washed | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q2) |
 | El Milagrito, Honduras, Washed | Honduras | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-x-soe3) |
+| Fazenda do Engenho Lot 10, Brazil, Washed | Brazil | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-z-soe3) |
+| Fazenda Um Supreme, Brazil, Pulped Natural | Brazil | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-singleorigin-fazenda-um-supreme-brazil-pulped-natural) |
 | Filter Drip Bags - Irmãs Pereira Lot 153, Brazil, Natural | Brazil | Natural | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q1) |
 | Filter Drip Bags - Kamachungwa AB, Kenya, Washed | Kenya | Washed | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op2-q1) |
 | Filter Drip Bags - Raspberry Candy | — | — | $21.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip-bags-raspberry-candy) |
 | Filter Drip Bags - Unwind | — | — | $18.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip) |
 | Gateway | — | — | $19.00 / 200g | [购买](https://onacoffee.com.au/products/gateway) |
+| Gatumbi AB, Kenya, Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-singleorigin-gatumbi-ab-kenya-washed) |
 | Guji PB, Ethiopia, Washed | Ethiopia | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-x-sof1) |
 | Guji Yabitu Koba G1, Ethiopia, Natural | Ethiopia | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-z-sof3) |
 | Instant Coffee - Aspen | — | — | $16.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-aspen) |
@@ -116,21 +121,19 @@ layout: default
 | Instant Coffee - Raspberry Candy | — | — | $20.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-candy) |
 | Instant Coffee - Unwind | — | — | $17.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-unwind) |
 | Iris Estate Aril, Panama, CM Washed | Panama | Washed | $78.25 / 200g | [购买](https://onacoffee.com.au/products/filter-reserve-y-rsof1) |
-| Iris Estate Enigma, Panama, CM Natural | Panama | Natural | $81.75 / 200g | [购买](https://onacoffee.com.au/products/espresso-reserve-z-rsoe1) |
+| Iris Estate Terroir, Panama, Washed | Panama | Washed | $76.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-reserve-w-rsoe1) |
 | Jumay, Guatemala, Anaerobic Natural | Guatemala | Anaerobic | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-y-sof4) |
-| La Cima del Cielo, Honduras, Washed | Honduras | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-z-sof2) |
 | Maple | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/maple) |
 | Milk-Blend Bundle | — | — | $70.00 / 200g | [购买](https://onacoffee.com.au/products/milk-blend-bundle) |
 | Morning Made Original Matcha Latte | — | — | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/morning-made-original-matcha-latte) |
 | Morning Made Pure Matcha | — | Natural | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/morning-made-pure-matcha-1) |
 | Morning Made Strawberry Matcha Latte | — | Natural | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/morning-made-strawberry-matcha-latte) |
 | Morning Made Vanilla Matcha Latte | — | — | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/d) |
-| Plan del Hoyo, El Salvador, Washed | El Salvador | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-w-sof2) |
 | Raspberry Candy | — | — | $24.00 / 200g | [购买](https://onacoffee.com.au/products/raspberry-candy) |
 | Raspberry Candy Filter | — | — | $26.00 / 200g | [购买](https://onacoffee.com.au/products/raspberry-candy-filter) |
 | Reserve Instant Coffee - Iris Estate Ambrosia, Panama, Nitrogen Washed | Panama | Washed | $49.00 / Default Title | [购买](https://onacoffee.com.au/products/reserve-instant-coffee-iris-estate-ambrosia-panama-nitrogen-washed) |
+| Ugly Sweater | — | — | $24.00 / 200g | [购买](https://onacoffee.com.au/products/ugly-sweater) |
 | Unwind | — | — | $22.00 / 200g | [购买](https://onacoffee.com.au/products/unwind) |
-| Yirgacheffe Chelchele G1, Ethiopia, Natural | Ethiopia | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-z-soe2) |
 | Yirgacheffe, Ethiopia, Natural | Ethiopia | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/milk-y-som1) |
 
 ---
@@ -154,12 +157,12 @@ layout: default
 | Padre Easy Tiger Coffee Concentrate 375ml | — | — | $14.95 / Default Title | [购买](https://padrecoffee.com.au/products/padre-easy-tiger-coffee-concentrate-375ml) |
 | Hot Shot Coffee Pods - Decaf Organic | Mexico | — | $35.00 / 30 Pack | [购买](https://padrecoffee.com.au/products/hot-shot-coffee-pods-decaf-organic) |
 | Rwanda Mwit - Single Origin Espresso | Rwanda | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/indonesia-frinsa-single-origin-espresso) |
-| Brazil Gabriel Nunes  - Single Origin Espresso | Brazil | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/brazil-gabriel-nunes-single-origin-espresso) |
-| Brazil Gabriel Nunes  - Single Origin Filter | Brazil | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/brazil-gabriel-nunes-single-origin-filter) |
+| Brazil Gabriel Nunes  - Single Origin Espresso | Brazil | — | $26.50 / 250g | [购买](https://padrecoffee.com.au/products/brazil-gabriel-nunes-single-origin-espresso) |
+| Brazil Gabriel Nunes  - Single Origin Filter | Brazil | — | $26.50 / 250g | [购买](https://padrecoffee.com.au/products/brazil-gabriel-nunes-single-origin-filter) |
 | Winter Inferno Limited Blend | — | — | $24.00 / 250g | [购买](https://padrecoffee.com.au/products/winter-inferno-limited-blend) |
 | Guatemala Paraiso - Single Origin Espresso | Guatemala | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/guatemala-paraiso-single-origin-espresso) |
 | Guatemala Paraiso  - Single Origin Filter | Guatemala | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/guatemala-paraiso-single-origin-filter) |
 
 ---
 
-*数据质量：产地提取率 54/106 (51%) | 处理法提取率 45/106 (42%)*
+*数据质量：产地提取率 56/109 (51%) | 处理法提取率 47/109 (43%)*
