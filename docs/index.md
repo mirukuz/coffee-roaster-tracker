@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-08-16 22:11:16
+更新时间：2026-08-23 22:11:36
 
 ---
 
@@ -11,13 +11,13 @@ layout: default
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
-| Gift 3-month Subscription – Ships every 2 weeks (6 deliveries) | — | — | $132.00 / 250g | [购买](https://marketlane.com.au/products/gift-3-month-subscription-ships-every-2-weeks-6-deliveries) |
-| Gift 12-month Subscription – Ships every 2 weeks (26 deliveries) | — | — | $572.00 / 250g | [购买](https://marketlane.com.au/products/12-month-subscription-fortnightly-deliveries) |
-| Gift 6-month Subscription – Ships every 2 weeks (12 deliveries) | — | — | $264.00 / 250g | [购买](https://marketlane.com.au/products/6-month-subscription-fortnightly-deliveries) |
+| Gift 3-month Subscription – Ships every 2 weeks (6 deliveries) | — | — | $144.00 / 250g | [购买](https://marketlane.com.au/products/gift-3-month-subscription-ships-every-2-weeks-6-deliveries) |
+| Gift 12-month Subscription – Ships every 2 weeks (26 deliveries) | — | — | $624.00 / 250g | [购买](https://marketlane.com.au/products/12-month-subscription-fortnightly-deliveries) |
+| Gift 6-month Subscription – Ships every 2 weeks (12 deliveries) | — | — | $288.00 / 250g | [购买](https://marketlane.com.au/products/6-month-subscription-fortnightly-deliveries) |
 | Gift Wrap (All proceeds donated to Children’s Ground) | — | — | $2.00 / Default Title | [购买](https://marketlane.com.au/products/gift-wrap-all-proceeds-donated-to-childrens-ground) |
 | Pre-Paid 12-month Subscription – Ships every 4 weeks (26 deliveries) | — | — | $540.00 / 250g | [购买](https://marketlane.com.au/products/pre-paid-12-month-subscription-ships-every-4-weeks-26-deliveries) |
-| Ongoing subscription | — | — | $22.00 / 250g | [购买](https://marketlane.com.au/products/coffee-club-ongoing-subscription-ships-every-4-weeks) |
-| Ongoing Subscription | — | — | $22.00 / 250g | [购买](https://marketlane.com.au/products/coffee-club-ongoing-subscription-ships-every-2-weeks) |
+| Ongoing subscription | — | — | $24.00 / 250g | [购买](https://marketlane.com.au/products/coffee-club-ongoing-subscription-ships-every-4-weeks) |
+| Ongoing Subscription | — | — | $24.00 / 250g | [购买](https://marketlane.com.au/products/coffee-club-ongoing-subscription-ships-every-2-weeks) |
 
 ---
 
@@ -45,15 +45,15 @@ layout: default
 | PROUD MARY SPECIALTY INSTANT COFFEE \| WILD \| Benti Nenka | Ethiopia | Natural | $25.00 / Default Title | [购买](https://proudmarycoffee.com.au/products/proud-mary-specialty-instant-coffee-wild-benti-nenka) |
 | Brazil \| Dois Irmaos \| Catuai \| Natural | Brazil | Natural | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/brazil-dois-irmaos-yellow-catuai-natural) |
 | "Pic'n'Mix" \| Blend \| 250G | — | — | $52.20 / "Angel Wings" | [购买](https://proudmarycoffee.com.au/products/picnmix-espresso-roast-blend) |
-| Panama \| Los Lajones - Bambu \| Geisha \| Washed | Panama / Ethiopia / Brazil / Peru / El Salvador | Natural | $109.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-los-lajones-bambu-geisha-washed) |
 | Brazil \| Mantiqueira de Minas \| Yellow Bourbon \| Natural | Brazil | Natural | $34.00 / 250g | [购买](https://proudmarycoffee.com.au/products/brazil-mantiqueira-de-minas-yellow-bourbon-natural) |
 | El Salvador \| El Angel \| Red Bourbon \| Washed | El Salvador | Natural | $31.00 / 250g | [购买](https://proudmarycoffee.com.au/products/el-salvador-el-angel-red-bourbon-washed) |
-| Burundi \| Gahahe \| Red Bourbon \| Natural | Burundi | Natural | $37.00 / 250g | [购买](https://proudmarycoffee.com.au/products/burundi-gahahe-red-bourbon-natural) |
 | Honduras \| Ovidio Gomez \| Geisha \| Honey | Honduras | Honey | $62.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/honduras-ovidio-gomez-geisha-honey) |
 | Honduras \| La Salvaje COE #1B \| Geisha \| Washed | Honduras / El Salvador | Natural | $115.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/honduras-la-salvaje-coe-1b-geisha-washed) |
-| Panama \| Los Lajones \| Geisha \| Washed | Panama / Ethiopia / Brazil / Peru / El Salvador | Natural | $99.00 / Default Title | [购买](https://proudmarycoffee.com.au/products/panama-los-lajones-geisha-washed) |
 | Panama \| Bambito Estate \| Geisha \| Washed | Panama | Washed | $90.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-bambito-estate-geisha-washed) |
 | Honduras \| Manuel Vallecillo \| Pacas \| Washed | Honduras / El Salvador | Washed | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-manuel-vallecillo-pacas-washed) |
+| El Salvador \| La Fany \| Red Bourbon \| Natural | El Salvador | Natural | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/el-salvador-la-fany-red-bourbon-natural) |
+| Panama \| Mama Cata Estate \| Pacamara \| ASD Natural | Panama / El Salvador | Anaerobic | $60.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-mama-cata-estate-pacamara-asd-natural) |
+| Panama \| Finca Momoto - Camino \| Geisha \| Natural | Panama | Natural | $62.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-finca-momoto-camino-geisha-natural-1) |
 
 ---
 
@@ -79,9 +79,9 @@ layout: default
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Crumble de Maçã e Amora | Brazil | Anaerobic | $30.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/crumble-de-maca-e-amora_26) |
 | Wanale Washed | Uganda | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/wanale-washed_26) |
 | Pavê de Amendoim | Brazil | Anaerobic | $30.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/pave-de-amendoim_26) |
-| Tamu Tamu | Tanzania | Honey | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/tamu-tamu-aa-ab_26) |
 | Los Pequeños | Colombia | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/los-pequenos_25f) |
 | Divino Niño | Colombia | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/divino-nino_25ff) |
 | Nyeri | Kenya | Washed | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/nyeri_25) |
@@ -93,13 +93,15 @@ layout: default
 
 ---
 
-## Ona Coffee（39款）
+## Ona Coffee（41款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Ama Project Lilac Lot 1, Brazil, CM Natural | Brazil | Natural | $30.00 / 200g | [购买](https://onacoffee.com.au/products/filter-rare-singleorigin-ama-project-lilac-brazil-cm-natural) |
 | Ama Project Lot Cruzeiro, Brazil, Superhoney | Brazil | Honey | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-singleorigin-ama-project-lot-cruzeiro-brazil-superhoney) |
 | Aspen | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/aspen) |
 | Bench Maji, Ethiopia, Washed | Ethiopia | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-single-origin-bench-maji-ethiopia-washed) |
+| Bruma, Colombia, Washed | Colombia | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-single-origin-bruma-colombia-washed) |
 | Digital Gift Card | — | — | $30.00 / Default Title | [购买](https://onacoffee.com.au/products/ona-coffee-gift-card-1) |
 | Digital Gift Card | — | — | $50.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-50) |
 | Digital Gift Card | — | — | $75.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-75) |
@@ -108,11 +110,11 @@ layout: default
 | Digital Gift Card | — | — | $200.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card) |
 | Drip Bags - Iris Estate Afterglow, Panama, Natural | Panama | Natural | $32.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-reserve-1-q2) |
 | Drip Bags - Siko G2, Ethiopia, Washed | Ethiopia | Washed | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q2) |
+| El Avión, Nicaragua, CM Natural Indigo | Nicaragua | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-single-origin-el-avion-nicaragua-cm-natural-indigo) |
 | Filter Drip Bags - Irmãs Pereira Lot 153, Brazil, Natural | Brazil | Natural | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q1) |
 | Filter Drip Bags - Kamachungwa AB, Kenya, Washed | Kenya | Washed | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op2-q1) |
 | Filter Drip Bags - Raspberry Candy | — | — | $21.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip-bags-raspberry-candy) |
 | Filter Drip Bags - Unwind | — | — | $18.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip) |
-| Finca Idolia, Guatemala, Anaerobic Natural | Guatemala | Anaerobic | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-singleorigin-finca-idolia-guatemala-anaerobic-natural) |
 | Gateway | — | — | $19.00 / 200g | [购买](https://onacoffee.com.au/products/gateway) |
 | Guji, Ethiopia, Natural | Ethiopia | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-singleorigin-guji-ethiopia-natural) |
 | Instant Coffee - Aspen | — | — | $16.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-aspen) |
@@ -160,9 +162,9 @@ layout: default
 | Guatemala Paraiso - Single Origin Espresso | Guatemala | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/guatemala-paraiso-single-origin-espresso) |
 | Kenya Gachatha AA - Single Origin Espresso | Kenya | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/kenya-gachatha-aa-single-origin-espresso) |
 | Rwanda Gishamwana Island - Single Origin Espresso | Rwanda | — | $26.50 / 250g | [购买](https://padrecoffee.com.au/products/rwanda-gishamwana-island-washed-single-origin-espresso) |
-| Rwanda Gishamwana Island - Single Origin Filter | Rwanda | — | $26.50 / 250g | [购买](https://padrecoffee.com.au/products/rwanda-gishamwana-island-washed-single-origin-filter) |
 | Colombia, Arturo Arango - Single Origin Espresso | Colombia | Honey | $27.00 / 250g | [购买](https://padrecoffee.com.au/products/colombia-arturo-arango-single-origin-espresso) |
+| Colombia, Arturo Arango - Single Origin Filter | Colombia | Honey | $27.00 / 250g | [购买](https://padrecoffee.com.au/products/colombia-arturo-arango-single-origin-filter) |
 
 ---
 
-*数据质量：产地提取率 58/109 (53%) | 处理法提取率 48/109 (44%)*
+*数据质量：产地提取率 60/111 (54%) | 处理法提取率 51/111 (46%)*
