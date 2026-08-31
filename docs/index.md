@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-08-23 22:11:36
+更新时间：2026-08-31 00:02:21
 
 ---
 
@@ -28,7 +28,7 @@ layout: default
 
 ---
 
-## Proud Mary（22款）
+## Proud Mary（19款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -47,17 +47,14 @@ layout: default
 | "Pic'n'Mix" \| Blend \| 250G | — | — | $52.20 / "Angel Wings" | [购买](https://proudmarycoffee.com.au/products/picnmix-espresso-roast-blend) |
 | Brazil \| Mantiqueira de Minas \| Yellow Bourbon \| Natural | Brazil | Natural | $34.00 / 250g | [购买](https://proudmarycoffee.com.au/products/brazil-mantiqueira-de-minas-yellow-bourbon-natural) |
 | El Salvador \| El Angel \| Red Bourbon \| Washed | El Salvador | Natural | $31.00 / 250g | [购买](https://proudmarycoffee.com.au/products/el-salvador-el-angel-red-bourbon-washed) |
-| Honduras \| Ovidio Gomez \| Geisha \| Honey | Honduras | Honey | $62.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/honduras-ovidio-gomez-geisha-honey) |
-| Honduras \| La Salvaje COE #1B \| Geisha \| Washed | Honduras / El Salvador | Natural | $115.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/honduras-la-salvaje-coe-1b-geisha-washed) |
-| Panama \| Bambito Estate \| Geisha \| Washed | Panama | Washed | $90.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-bambito-estate-geisha-washed) |
 | Honduras \| Manuel Vallecillo \| Pacas \| Washed | Honduras / El Salvador | Washed | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-manuel-vallecillo-pacas-washed) |
 | El Salvador \| La Fany \| Red Bourbon \| Natural | El Salvador | Natural | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/el-salvador-la-fany-red-bourbon-natural) |
-| Panama \| Mama Cata Estate \| Pacamara \| ASD Natural | Panama / El Salvador | Anaerobic | $60.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-mama-cata-estate-pacamara-asd-natural) |
-| Panama \| Finca Momoto - Camino \| Geisha \| Natural | Panama | Natural | $62.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-finca-momoto-camino-geisha-natural-1) |
+| Panama \| Elida Estate - Falda \| Geisha \| Natural | Panama | Natural | $92.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-elida-estate-falda-geisha-natural) |
+| Nicaragua \| Los Alpes \| Geisha \| Natural | Nicaragua / Panama | Natural | $62.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/nicaragua-los-alpes-geisha-natural) |
 
 ---
 
-## Seven Seeds（11款）
+## Seven Seeds（10款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -68,7 +65,6 @@ layout: default
 | Cold Filter Cask | — | — | $30.00 / 2L | [购买](https://sevenseeds.com.au/products/cold-filter-cask) |
 | Matambo, Decaf, Colombia | Colombia | Natural | $24.00 / 250g | [购买](https://sevenseeds.com.au/products/matambo-decaf-colombia) |
 | Irmas Pereira, Brazil | Brazil | Experimental | $22.00 / 250g | [购买](https://sevenseeds.com.au/products/irmas-pereira-brazil-2026) |
-| Alejandro Padilla Chinguel, Peru | Peru | Anaerobic | $31.00 / 250g | [购买](https://sevenseeds.com.au/products/alejandro-padilla-chinguel-peru) |
 | El Limoncillo Javanica, Nicaragua | Nicaragua / Ethiopia | — | $25.00 / 250g | [购买](https://sevenseeds.com.au/products/el-limoncillo-javanica-nicaragua-2026) |
 | Mwendi  Estate AA, Kenya | Kenya | — | $29.00 / 250g | [购买](https://sevenseeds.com.au/products/mwendi-estate-aa-kenya) |
 | El Suspiro, Nicaragua | Nicaragua / El Salvador | — | $25.00 / 250g | [购买](https://sevenseeds.com.au/products/el-suspiro-nicaragua-2026) |
@@ -79,6 +75,7 @@ layout: default
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Sipi Natural | Uganda | Natural | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/sipi-natural_26) |
 | Crumble de Maçã e Amora | Brazil | Anaerobic | $30.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/crumble-de-maca-e-amora_26) |
 | Wanale Washed | Uganda | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/wanale-washed_26) |
 | Pavê de Amendoim | Brazil | Anaerobic | $30.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/pave-de-amendoim_26) |
@@ -87,18 +84,16 @@ layout: default
 | Nyeri | Kenya | Washed | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/nyeri_25) |
 | Mando | Tanzania | Washed | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/mando_26) |
 | Café descafeinado de México | Mexico | — | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/cafe-descafeinado-de-mexico_25) |
-| Uvuu Factory | Kenya | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/uvuu-factory_25) |
 | Filter Lucky Dip | — | — | $22.00 / Filter | [购买](https://commonfolkcoffee.com.au/products/filter-lucky-dip) |
 | Espresso Lucky Dip | — | — | $22.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/karinga-kenya) |
 
 ---
 
-## Ona Coffee（41款）
+## Ona Coffee（39款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
 | Ama Project Lilac Lot 1, Brazil, CM Natural | Brazil | Natural | $30.00 / 200g | [购买](https://onacoffee.com.au/products/filter-rare-singleorigin-ama-project-lilac-brazil-cm-natural) |
-| Ama Project Lot Cruzeiro, Brazil, Superhoney | Brazil | Honey | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-singleorigin-ama-project-lot-cruzeiro-brazil-superhoney) |
 | Aspen | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/aspen) |
 | Bench Maji, Ethiopia, Washed | Ethiopia | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-single-origin-bench-maji-ethiopia-washed) |
 | Bruma, Colombia, Washed | Colombia | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-single-origin-bruma-colombia-washed) |
@@ -123,8 +118,7 @@ layout: default
 | Instant Coffee - Maple | — | — | $16.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-maple) |
 | Instant Coffee - Raspberry Candy | — | — | $20.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-candy) |
 | Instant Coffee - Unwind | — | — | $17.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-unwind) |
-| Iris Estate Illumination, Panama, CM Washed | Panama | Washed | $76.75 / 200g | [购买](https://onacoffee.com.au/products/espresso-reserve-singleorigin-iris-estate-illumination-panama-cm-washed) |
-| Lekempti, Ethiopia, Washed | Ethiopia | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/singleorigin-espresso-lekempti-ethiopia-washed) |
+| Las Hortensias, Nicaragua, Anaerobic Natural | Nicaragua | Anaerobic | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-single-origin-las-hortensias-nicaragua-anaerobic-natural) |
 | Maple | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/maple) |
 | Milk-Blend Bundle | — | — | $70.00 / 200g | [购买](https://onacoffee.com.au/products/milk-blend-bundle) |
 | Morning Made Original Matcha Latte | — | — | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/morning-made-original-matcha-latte) |
@@ -159,12 +153,12 @@ layout: default
 | Hot Shot Coffee Pods - Troublemaker Espresso | — | — | $35.00 / 30 Pack | [购买](https://padrecoffee.com.au/products/hot-shot-coffee-pods-troublemaker-espresso) |
 | Hot Shot Coffee Pods - Decaf Organic | Mexico | — | $35.00 / 30 Pack | [购买](https://padrecoffee.com.au/products/hot-shot-coffee-pods-decaf-organic) |
 | Winter Inferno Limited Blend | — | — | $24.00 / 250g | [购买](https://padrecoffee.com.au/products/winter-inferno-limited-blend) |
-| Guatemala Paraiso - Single Origin Espresso | Guatemala | — | $25.00 / 250g | [购买](https://padrecoffee.com.au/products/guatemala-paraiso-single-origin-espresso) |
-| Kenya Gachatha AA - Single Origin Espresso | Kenya | — | $28.00 / 250g | [购买](https://padrecoffee.com.au/products/kenya-gachatha-aa-single-origin-espresso) |
 | Rwanda Gishamwana Island - Single Origin Espresso | Rwanda | — | $26.50 / 250g | [购买](https://padrecoffee.com.au/products/rwanda-gishamwana-island-washed-single-origin-espresso) |
 | Colombia, Arturo Arango - Single Origin Espresso | Colombia | Honey | $27.00 / 250g | [购买](https://padrecoffee.com.au/products/colombia-arturo-arango-single-origin-espresso) |
 | Colombia, Arturo Arango - Single Origin Filter | Colombia | Honey | $27.00 / 250g | [购买](https://padrecoffee.com.au/products/colombia-arturo-arango-single-origin-filter) |
+| Brazil, Danilo Barbosa - Single Origin Filter | Brazil | — | $27.50 / 250g | [购买](https://padrecoffee.com.au/products/brazil-danilo-barbosa-single-origin-filter) |
+| Brazil, Danilo Barbosa - Single Origin Espresso | Brazil | — | $27.50 / 250g | [购买](https://padrecoffee.com.au/products/brazil-danilo-barbosa-single-origin-espresso) |
 
 ---
 
-*数据质量：产地提取率 60/111 (54%) | 处理法提取率 51/111 (46%)*
+*数据质量：产地提取率 54/105 (51%) | 处理法提取率 45/105 (43%)*
