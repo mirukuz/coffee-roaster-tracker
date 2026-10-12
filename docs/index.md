@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-10-05 00:19:31
+更新时间：2026-10-12 00:50:34
 
 ---
 
@@ -28,7 +28,7 @@ layout: default
 
 ---
 
-## Proud Mary（20款）
+## Proud Mary（19款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -42,16 +42,15 @@ layout: default
 | Mild Coffee Subscription | — | — | $26.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/mild-coffee-subscription) |
 | Wild Coffee Subscription | — | — | $32.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/wild-coffee-subscription) |
 | "Pic'n'Mix" \| Blend \| 250G | — | — | $52.20 / "Angel Wings" | [购买](https://proudmarycoffee.com.au/products/picnmix-espresso-roast-blend) |
-| Brazil \| Mantiqueira de Minas \| Yellow Bourbon \| Natural | Brazil | Natural | $34.00 / 250g | [购买](https://proudmarycoffee.com.au/products/brazil-mantiqueira-de-minas-yellow-bourbon-natural) |
 | Honduras \| Manuel Vallecillo \| Pacas \| Washed | Honduras / El Salvador | Washed | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-manuel-vallecillo-pacas-washed) |
 | Brazil \| Santa Clara \| Catuai \| Fermented Natural | Brazil | Anaerobic | $39.00 / 250g | [购买](https://proudmarycoffee.com.au/products/brazil-santa-clara-catuai-fermented-natural) |
-| Brazil \| Santuario Sul \| Pacamara \| Anaerobic Natural | Brazil | Anaerobic | $50.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/brazil-santuario-sul-pacamara-anaerobic-natural) |
 | Panama \| Finca Auromar \| Geisha \| Washed | Panama / Costa Rica | Washed | $77.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/panama-finca-auromar-geisha-washed) |
 | Costa Rica \| Finca Toño \| Sarchimor \| Yellow Honey | Costa Rica | Natural | $34.00 / 250g | [购买](https://proudmarycoffee.com.au/products/costa-rica-finca-tono-sarchimor-yellow-honey) |
 | Colombia \| El Mirador \| Castillo \| Washed | Colombia | Washed | $35.00 / 250g | [购买](https://proudmarycoffee.com.au/products/colombia-palestina-castillo-washed) |
 | Franken Grind \| Limited Edition Blend | Brazil / El Salvador / Panama | Natural | $24.00 / 250g | [购买](https://proudmarycoffee.com.au/products/franken-grind-limited-edition-blend) |
 | El Salvador \| La Siberia \| Java \| Natural | El Salvador / Indonesia | Natural | $50.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/el-salvador-la-siberia-java-natural) |
 | El Salvador \| El Manzano \| Pacamara \| Natural | El Salvador | Natural | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/el-salvador-el-manzano-pacamara-natural) |
+| Honduras \| Nahun Fernandez \| Pacas \| Washed | Honduras | Washed | $34.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-nahun-fernandez-pacas-washed) |
 
 ---
 
@@ -67,16 +66,17 @@ layout: default
 | Matambo, Decaf, Colombia | Colombia | Natural | $24.00 / 250g | [购买](https://sevenseeds.com.au/products/matambo-decaf-colombia) |
 | Irmas Pereira, Brazil | Brazil | Experimental | $22.00 / 250g | [购买](https://sevenseeds.com.au/products/irmas-pereira-brazil-2026) |
 | El Suspiro, Nicaragua | Nicaragua / El Salvador | — | $25.00 / 250g | [购买](https://sevenseeds.com.au/products/el-suspiro-nicaragua-2026) |
-| San Jose, Nicaragua | Nicaragua / Honduras | Anaerobic | $35.00 / 250g | [购买](https://sevenseeds.com.au/products/san-jose-nicaragua-2026) |
 | Ratnagiri Estate, India | India | Anaerobic | $31.00 / 250g | [购买](https://sevenseeds.com.au/products/ratnagiri-estate-india-2026) |
 | Los Chelazos, El Salvador | El Salvador | Washed | $33.00 / 250g | [购买](https://sevenseeds.com.au/products/los-chelazos-el-salvador-2026) |
+| Mubuku, Uganda | Uganda | Anaerobic | $27.00 / 250g | [购买](https://sevenseeds.com.au/products/mubuku-uganda-2026) |
 
 ---
 
-## Common Folk（11款）
+## Common Folk（12款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Stallion | Uganda | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/stallion_26) |
 | Nesru Aba Nura | Ethiopia | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/nesru-aba-nura-washed_26) |
 | Elgon Natural | Uganda | Natural | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/elgon-natural_26) |
 | La Familia | Colombia | Washed | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/blend-familia_25f) |
@@ -107,7 +107,7 @@ layout: default
 | Drip Bags - Siko G2, Ethiopia, Washed | Ethiopia | Washed | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q2) |
 | El Ángel, El Salvador, Natural | El Salvador | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-el-angel-el-salvador-natural) |
 | El Avión, Nicaragua, CM Natural Indigo | Nicaragua | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-single-origin-el-avion-nicaragua-cm-natural-indigo) |
-| El Lino, Nicaragua, Washed | Nicaragua | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-el-lino-nicaragua-washed) |
+| El Avión, Nicaragua, Washed | Nicaragua | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-w-el-avion-nicaragua-washed) |
 | Filter Drip Bag Box - Guji Uraga Siko G1, Ethiopia, Washed | Ethiopia | Washed | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-guji-uraga-siko-g1-ethiopia-washed) |
 | Filter Drip Bags - Guji Yabitu Koba G1, Ethiopia, Natural | Ethiopia | Natural | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-guji-yabitu-koba-g1-ethiopia-natural) |
 | Filter Drip Bags - Irmãs Pereira Lot 153, Brazil, Natural | Brazil | Natural | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q1) |
@@ -123,9 +123,9 @@ layout: default
 | Instant Coffee - Raspberry Candy | — | — | $20.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-candy) |
 | Instant Coffee - Unwind | — | — | $17.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-unwind) |
 | Janson Estate Lot 26-173, Panama, Natural | Panama | Natural | $75.00 / 200g | [购买](https://onacoffee.com.au/products/filter-reserve-janson-estate-lot-26-173-panama-natural) |
+| Kagumo AB, Kenya,  Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-singleorigin-kagumo-ab-kenya-washed) |
 | Kaliluni AA, Kenya, Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-kaliluni-aa-kenya-washed) |
 | Kiambu Regional C, Kenya, Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-kiambu-regional-c-kenya-washed) |
-| Las Hortensias, Nicaragua, Anaerobic Natural | Nicaragua | Anaerobic | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-single-origin-las-hortensias-nicaragua-anaerobic-natural) |
 | Los Suyates Community Well 3, Nicaragua, CM Natural Jasper | Nicaragua | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-los-suyates-community-well-3-nicaragua-cm-natural-jasper) |
 | Maple | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/maple) |
 | Milk-Blend Bundle | — | — | $78.00 / 200g | [购买](https://onacoffee.com.au/products/milk-blend-bundle) |
@@ -142,7 +142,7 @@ layout: default
 | Rungeto C, Kenya, Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-rungeto-c-kenya-washed) |
 | Single Origin Subscription (Espresso Coffee) | — | — | $66.00 / 3 x 200g | [购买](https://onacoffee.com.au/products/single-origin-subscription-espresso-coffee) |
 | Single Origin Subscription (Filter Coffee) | — | — | $44.00 / 2 x 200g | [购买](https://onacoffee.com.au/products/single-origin-subscription-filter) |
-| Thageini Simba, Kenya, Supernatural | Kenya | Natural | $22.50 / 200g | [购买](https://onacoffee.com.au/products/milk-thageini-simba-kenya-supernatural) |
+| Thageini Karibu, Kenya, Supernatural | Kenya | Natural | $25.50 / 200g | [购买](https://onacoffee.com.au/products/cofosof-rare-thageini-karibu-kenya-supernatural) |
 | Thageini, Kenya, CM Washed Amber | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-single-origin-thageini-kenya-cm-washed-amber) |
 | Unwind | — | — | $22.00 / 200g | [购买](https://onacoffee.com.au/products/unwind) |
 | Yula Regional Lot, Guatemala, Washed | Guatemala | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-singleorigin-fyula-regional-lot-guatemala-washed) |
@@ -158,7 +158,7 @@ layout: default
 | Same Again Espresso Blend | — | — | $23.00 / 250g | [购买](https://padrecoffee.com.au/products/seasonal-espresso-blend) |
 | Hey Buddy Filter Blend | Ethiopia | Natural | $24.00 / 250g | [购买](https://padrecoffee.com.au/products/hey-buddy-filter-blend) |
 | Golden Rule Espresso Blend | Guatemala / Papua New Guinea | — | $24.00 / 250g | [购买](https://padrecoffee.com.au/products/golden-rule-espresso-blend) |
-| Easy Goes Decaf Espresso Blend | Mexico | — | $24.00 / 250g | [购买](https://padrecoffee.com.au/products/mexico-el-tucan-organic-decaf) |
+| Easy Goes Decaf Espresso Blend | Mexico | — | $24.00 / 250g | [购买](https://padrecoffee.com.au/products/easy-goes-decaf) |
 | Troublemaker Espresso Blend | Ethiopia / Brazil / Uganda | Washed | $23.00 / 250g | [购买](https://padrecoffee.com.au/products/trouble-maker-espresso-blend) |
 | Day Dripper Drip Coffee Bags - Hey Buddy | — | — | $26.00 / Default Title | [购买](https://padrecoffee.com.au/products/day-dripper-coffee-drip-bags-hey-buddy) |
 | Padre Coffee Sampler Pack | Colombia / Brazil / Guatemala | — | $60.00 / Whole Beans | [购买](https://padrecoffee.com.au/products/sampler-pack) |
