@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-11-02 01:07:33
+更新时间：2026-11-09 01:18:31
 
 ---
 
@@ -30,7 +30,7 @@ layout: default
 
 ---
 
-## Proud Mary（18款）
+## Proud Mary（19款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -52,6 +52,7 @@ layout: default
 | Honduras \| Nahun Fernandez \| Pacas \| Washed | Honduras | Washed | $34.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-nahun-fernandez-pacas-washed) |
 | Costa Rica \| Volcan Azul \| Caturra \| Natural | Costa Rica / Mexico | Natural | $35.00 / 250g | [购买](https://proudmarycoffee.com.au/products/costa-rica-volcan-azul-caturra-natural) |
 | Nicaragua \| Buenos Aires \| Maragogipe \| Natural | Nicaragua / Brazil | Natural | $35.00 / 250g | [购买](https://proudmarycoffee.com.au/products/nicaragua-buenos-aires-maragogipe-natural) |
+| El Salvador \| Los Bellotos \| Bernardina \| Anaerobic Honey Sunset | El Salvador / Ethiopia | Anaerobic | $50.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/el-salvador-los-bellotos-bernardina-anaerobic-honey-sunset-1) |
 
 ---
 
@@ -76,6 +77,7 @@ layout: default
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Pegasus to a Horse Race | Uganda | Natural | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/pegasus-to-a-horse-race_26) |
 | Hulikere Estate | India | Anaerobic | $26.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/hulikere-estate_26) |
 | Unicorn | Uganda | Natural | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/unicorn_26) |
 | Hydro Honey | — | Honey | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/hydrohoney_26) |
@@ -85,7 +87,6 @@ layout: default
 | La Familia | Colombia | Washed | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/blend-familia_25f) |
 | Refugio | Colombia | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/refugio_25f) |
 | Sipi Natural | Uganda | Natural | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/sipi-natural_26) |
-| Wanale Washed | Uganda | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/wanale-washed_26) |
 | Divino Niño | Colombia | Washed | $29.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/divino-nino_25ff) |
 | Mando | Tanzania | Washed | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/mando_26) |
 | Café descafeinado de México | Mexico | — | $28.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/cafe-descafeinado-de-mexico_25) |
@@ -94,7 +95,7 @@ layout: default
 
 ---
 
-## Ona Coffee（47款）
+## Ona Coffee（48款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
@@ -114,7 +115,6 @@ layout: default
 | Filter Drip Bags - Irmãs Pereira Lot 153, Brazil, Natural | Brazil | Natural | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q1) |
 | Filter Drip Bags - Raspberry Candy | — | — | $21.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip-bags-raspberry-candy) |
 | Filter Drip Bags - Unwind | Colombia | Natural | $18.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip) |
-| Flor del Café Jalapa, Guatemala, Washed | Guatemala | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-singleorigin-flor-del-cafe-jalapa-guatemala-washed) |
 | Gargari Gutity G1 Red, Ethiopia, Natural | Ethiopia | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/milk-w-som1) |
 | Gateway | — | — | $19.00 / 200g | [购买](https://onacoffee.com.au/products/gateway) |
 | In Sequence | Ethiopia | Carbonic Maceration | $75.00 / Default Title | [购买](https://onacoffee.com.au/products/in-sequence) |
@@ -125,7 +125,9 @@ layout: default
 | Instant Coffee - Raspberry Candy | — | — | $20.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-candy) |
 | Instant Coffee - Unwind | Colombia | — | $17.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-unwind) |
 | Kagumo AB, Kenya,  Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-singleorigin-kagumo-ab-kenya-washed) |
-| Kaliluni AA, Kenya, Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-kaliluni-aa-kenya-washed) |
+| Kuriru AB, Kenya, Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/kuriru-ab-kenya-washed) |
+| La Huerta, Honduras, Washed | Honduras | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-single-originla-huerta-honduras-washed) |
+| La Merced, Guatemala, Natural | Guatemala | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-singleorigin-la-merced-guatemala-natural) |
 | Los Pirineos Lot 07, El Salvador, Natural | El Salvador | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-z-sof3) |
 | Maple | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/maple) |
 | Milk-Blend Bundle | — | — | $70.00 / 200g | [购买](https://onacoffee.com.au/products/milk-blend-bundle) |
@@ -144,7 +146,7 @@ layout: default
 | Thageini Karibu, Kenya, Supernatural | Kenya | Natural | $25.50 / 200g | [购买](https://onacoffee.com.au/products/cofosof-rare-thageini-karibu-kenya-supernatural) |
 | Unwind | — | — | $22.00 / 200g | [购买](https://onacoffee.com.au/products/unwind) |
 | Yirgacheffe Amederaro Lot 1626, Ethiopia, Nitrogen Natural Jasper | Ethiopia | Natural | $23.75 / 200g | [购买](https://onacoffee.com.au/products/filter-yirgacheffe-amederaro-lot-1626-ethiopia-nitrogen-natural-jasper) |
-| Yula Regional Lot, Guatemala, Washed | Guatemala | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-singleorigin-fyula-regional-lot-guatemala-washed) |
+| Yirgacheffe Gelcha Kindu Lot 1426, Ethiopia, CM Natural Indigo | Ethiopia | Natural | $27.00 / 200g | [购买](https://onacoffee.com.au/products/yirgacheffe-gelcha-kindu-lot-1426-ethiopia-cm-natural-indigo) |
 
 ---
 
@@ -165,13 +167,13 @@ layout: default
 | Day Dripper Drip Coffee Bags - Lucky Boy | — | — | $23.00 / Default Title | [购买](https://padrecoffee.com.au/products/day-dripper-drip-coffee-bags-lucky-boy-blend-box-of-10) |
 | Hot Shot Coffee Pods - Troublemaker Espresso | — | — | $35.00 / 30 Pack | [购买](https://padrecoffee.com.au/products/hot-shot-coffee-pods-troublemaker-espresso) |
 | Hot Shot Coffee Pods - Decaf Organic | Mexico | — | $35.00 / 30 Pack | [购买](https://padrecoffee.com.au/products/hot-shot-coffee-pods-decaf-organic) |
-| Brazil, Danilo Barbosa - Single Origin Espresso | Brazil | — | $27.50 / 250g | [购买](https://padrecoffee.com.au/products/brazil-danilo-barbosa-single-origin-espresso) |
 | Ethiopia, Chelchele - Single Origin Espresso | Ethiopia | — | $26.00 / 250g | [购买](https://padrecoffee.com.au/products/ethiopia-chelchele-single-origin-espresso) |
 | Burundi, Bumba - Single Origin Espresso | Burundi | — | $30.00 / 250g | [购买](https://padrecoffee.com.au/products/burundi-bumba-single-origin-espresso) |
 | Burundi, Bumba - Single Origin Filter | Burundi | — | $30.00 / 250g | [购买](https://padrecoffee.com.au/products/burundi-bumba-single-origin-filter) |
-| Costa Rica, Minor Jimenez Abarca - Single Origin Espresso | Costa Rica | — | $27.50 / 250g | [购买](https://padrecoffee.com.au/products/costa-rica-minor-jimenez-abarca-single-origin-espresso) |
-| Costa Rica, Minor Jimenez Abarca - Single Origin Filter | Costa Rica | — | $27.50 / 250g | [购买](https://padrecoffee.com.au/products/costa-rica-minor-jimenez-abarca-single-origin-filter) |
+| Costa Rica, Las Lajas Alma Negra - Single Origin Filter | Costa Rica | — | $30.00 / 250g | [购买](https://padrecoffee.com.au/products/costa-rica-las-lajas-alma-negra-single-origin-filter) |
+| Costa Rica, Las Lajas Alma Negra - Single Origin Espresso | Costa Rica | — | $30.00 / 250g | [购买](https://padrecoffee.com.au/products/costa-rica-las-lajas-alma-negra-single-origin-espresso) |
+| Colombia, Angie Hernandez Super Decaf - Limited Edition Omni | Colombia | — | $37.00 / 250g | [购买](https://padrecoffee.com.au/products/colombia-angie-hernandez-super-decaf-limited-edition-omni) |
 
 ---
 
-*数据质量：产地提取率 69/118 (58%) | 处理法提取率 58/118 (49%)*
+*数据质量：产地提取率 71/120 (59%) | 处理法提取率 60/120 (50%)*
