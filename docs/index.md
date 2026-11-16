@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 墨尔本咖啡烘焙商最新咖啡豆报告
-更新时间：2026-11-09 01:18:31
+更新时间：2026-11-16 01:28:27
 
 ---
 
@@ -47,12 +47,12 @@ layout: default
 | Honduras \| Manuel Vallecillo \| Pacas \| Washed | Honduras / El Salvador | Washed | $38.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-manuel-vallecillo-pacas-washed) |
 | Costa Rica \| Finca Toño \| Sarchimor \| Yellow Honey | Costa Rica | Natural | $34.00 / 250g | [购买](https://proudmarycoffee.com.au/products/costa-rica-finca-tono-sarchimor-yellow-honey) |
 | Colombia \| El Mirador \| Castillo \| Washed | Colombia | Washed | $35.00 / 250g | [购买](https://proudmarycoffee.com.au/products/colombia-palestina-castillo-washed) |
-| Franken Grind \| Limited Edition Blend | Brazil / El Salvador / Panama | Natural | $24.00 / 250g | [购买](https://proudmarycoffee.com.au/products/franken-grind-limited-edition-blend) |
 | El Salvador \| La Siberia \| Java \| Natural | El Salvador / Indonesia | Natural | $50.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/el-salvador-la-siberia-java-natural) |
 | Honduras \| Nahun Fernandez \| Pacas \| Washed | Honduras | Washed | $34.00 / 250g | [购买](https://proudmarycoffee.com.au/products/honduras-nahun-fernandez-pacas-washed) |
 | Costa Rica \| Volcan Azul \| Caturra \| Natural | Costa Rica / Mexico | Natural | $35.00 / 250g | [购买](https://proudmarycoffee.com.au/products/costa-rica-volcan-azul-caturra-natural) |
 | Nicaragua \| Buenos Aires \| Maragogipe \| Natural | Nicaragua / Brazil | Natural | $35.00 / 250g | [购买](https://proudmarycoffee.com.au/products/nicaragua-buenos-aires-maragogipe-natural) |
 | El Salvador \| Los Bellotos \| Bernardina \| Anaerobic Honey Sunset | El Salvador / Ethiopia | Anaerobic | $50.00 / Whole Beans | [购买](https://proudmarycoffee.com.au/products/el-salvador-los-bellotos-bernardina-anaerobic-honey-sunset-1) |
+| PROUD MARY SPECIALTY INSTANT COFFEE \| WILD \| Benti Nenka | Ethiopia | Natural | $25.00 / Default Title | [购买](https://proudmarycoffee.com.au/products/proud-mary-specialty-instant-coffee-wild-benti-nenka) |
 
 ---
 
@@ -62,21 +62,22 @@ layout: default
 |-----------|------|--------|------|------|
 | Seven Seeds House Blend | Ethiopia / Brazil | Natural | $23.00 / 250g | [购买](https://sevenseeds.com.au/products/seven-seeds-espresso-blend) |
 | Golden Gate Espresso Blend | — | — | $21.00 / 250g | [购买](https://sevenseeds.com.au/products/golden-gate-blend) |
-| F. Bomb Filter Blend | Ethiopia / Kenya | Washed | $25.00 / 250g | [购买](https://sevenseeds.com.au/products/f-bomb-filter-blend) |
+| F. Bomb Filter Blend | Ethiopia / Nicaragua | Natural | $25.00 / 250g | [购买](https://sevenseeds.com.au/products/f-bomb-filter-blend) |
 | Coffee Drip Bags | Peru | Washed | $15.00 / Default Title | [购买](https://sevenseeds.com.au/products/coffee-drip-bags) |
 | Cold Filter Cask | — | — | $30.00 / 2L | [购买](https://sevenseeds.com.au/products/cold-filter-cask) |
 | Matambo, Decaf, Colombia | Colombia | Natural | $24.00 / 250g | [购买](https://sevenseeds.com.au/products/matambo-decaf-colombia) |
-| Mubuku, Uganda | Uganda | Anaerobic | $27.00 / 250g | [购买](https://sevenseeds.com.au/products/mubuku-uganda-2026) |
 | Basha Bekele, Ethiopia | Ethiopia | Natural | $32.00 / 250g | [购买](https://sevenseeds.com.au/products/basha-bekele-ethiopia-2026) |
 | Bekele Belaycho, Ethiopia | Ethiopia | Natural | $29.00 / 250g | [购买](https://sevenseeds.com.au/products/bekele-belaycho-ethiopia-2026) |
 | Mustefa Abalulessa, Ethiopia | Ethiopia | — | $25.00 / 250g | [购买](https://sevenseeds.com.au/products/mustefa-abalulessa-ethiopia-2026) |
+| El Limoncillo Ethiosar, Nicaragua | Nicaragua | — | $24.00 / 250g | [购买](https://sevenseeds.com.au/products/el-limoncillo-ethiosar-nicaragua-2026) |
 
 ---
 
-## Common Folk（15款）
+## Common Folk（16款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
+| Sookoo Wine | Ethiopia | Anaerobic | $24.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/sookoo-wine_26) |
 | Pegasus to a Horse Race | Uganda | Natural | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/pegasus-to-a-horse-race_26) |
 | Hulikere Estate | India | Anaerobic | $26.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/hulikere-estate_26) |
 | Unicorn | Uganda | Natural | $27.00 / Espresso | [购买](https://commonfolkcoffee.com.au/products/unicorn_26) |
@@ -95,18 +96,18 @@ layout: default
 
 ---
 
-## Ona Coffee（48款）
+## Ona Coffee（45款）
 
 | 咖啡豆名称 | 产地 | 处理法 | 价格 | 链接 |
 |-----------|------|--------|------|------|
 | Aspen | — | — | $17.50 / 200g | [购买](https://onacoffee.com.au/products/aspen) |
 | Bridazul Lot 1, Nicaragua, Supernatural | Nicaragua | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-bridazul-lot-1-nicaragua-supernatural) |
-| Digital Gift Card | — | — | $30.00 / Default Title | [购买](https://onacoffee.com.au/products/ona-coffee-gift-card-1) |
-| Digital Gift Card | — | — | $50.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-50) |
-| Digital Gift Card | — | — | $75.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-75) |
-| Digital Gift Card | — | — | $100.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-100) |
-| Digital Gift Card | — | — | $150.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-150) |
-| Digital Gift Card | — | — | $200.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card) |
+| Digital Gift Card - $100 | — | — | $100.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-100) |
+| Digital Gift Card - $150 | — | — | $150.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-150) |
+| Digital Gift Card - $200 | — | — | $200.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card) |
+| Digital Gift Card - $30 | — | — | $30.00 / Default Title | [购买](https://onacoffee.com.au/products/ona-coffee-gift-card-1) |
+| Digital Gift Card - $50 | — | — | $50.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-50) |
+| Digital Gift Card - $75 | — | — | $75.00 / Default Title | [购买](https://onacoffee.com.au/products/digital-gift-card-75) |
 | Drip Bags - Iris Estate Afterglow, Panama, Natural | Panama | Natural | $32.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-reserve-1-q2) |
 | Drip Bags - Iris Estate, Panama, Mixed Process | Panama | — | $33.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-reserve-iris-estate-panama-mixed-process) |
 | Drip Bags - Siko G2, Ethiopia, Washed | Ethiopia | Washed | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q2) |
@@ -115,16 +116,15 @@ layout: default
 | Filter Drip Bags - Irmãs Pereira Lot 153, Brazil, Natural | Brazil | Natural | $17.00 / 5x10g | [购买](https://onacoffee.com.au/products/drip-bag-filter-op1-q1) |
 | Filter Drip Bags - Raspberry Candy | — | — | $21.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip-bags-raspberry-candy) |
 | Filter Drip Bags - Unwind | Colombia | Natural | $18.00 / 5x10g | [购买](https://onacoffee.com.au/products/filter-drip) |
-| Gargari Gutity G1 Red, Ethiopia, Natural | Ethiopia | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/milk-w-som1) |
 | Gateway | — | — | $19.00 / 200g | [购买](https://onacoffee.com.au/products/gateway) |
-| In Sequence | Ethiopia | Carbonic Maceration | $75.00 / Default Title | [购买](https://onacoffee.com.au/products/in-sequence) |
+| Guji Mudole, Ethiopia, Supernatural | Ethiopia | Natural | $23.00 / 200g | [购买](https://onacoffee.com.au/products/filter-rare-guji-mudole-ethiopia-supernatural) |
 | Instant Coffee - Aspen | Ethiopia / Brazil / Nicaragua | Natural | $16.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-aspen) |
 | Instant Coffee - Gititu AB, Kenya, Washed | Kenya | Washed | $16.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-mutheka-kiandu-ab-kenya-washed) |
 | Instant Coffee - Maple | Ethiopia / Brazil | Natural | $16.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-maple) |
 | Instant Coffee - Mutheka Kiandu AB, Kenya, Washed | Kenya | Washed | $16.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-mutheka-kiandu-kenya-washed) |
 | Instant Coffee - Raspberry Candy | — | — | $20.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-candy) |
 | Instant Coffee - Unwind | Colombia | — | $17.50 / Default Title | [购买](https://onacoffee.com.au/products/instant-coffee-unwind) |
-| Kagumo AB, Kenya,  Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-singleorigin-kagumo-ab-kenya-washed) |
+| Kiambu Regional PB, Kenya, Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/singleorigin-espresso-kiambu-regional-pb-kenya-washed) |
 | Kuriru AB, Kenya, Washed | Kenya | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/kuriru-ab-kenya-washed) |
 | La Huerta, Honduras, Washed | Honduras | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/filter-single-originla-huerta-honduras-washed) |
 | La Merced, Guatemala, Natural | Guatemala | Natural | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-singleorigin-la-merced-guatemala-natural) |
@@ -136,14 +136,12 @@ layout: default
 | Morning Made Pure Matcha | — | Natural | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/morning-made-pure-matcha-1) |
 | Morning Made Strawberry Matcha Latte | — | Natural | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/morning-made-strawberry-matcha-latte) |
 | Morning Made Vanilla Matcha Latte | — | — | $54.00 / Default Title | [购买](https://onacoffee.com.au/products/d) |
-| Primavera Family, Guatemala, Washed | Guatemala | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-primavera-family-guatemala-washed) |
 | Raspberry Candy | — | — | $24.00 / 200g | [购买](https://onacoffee.com.au/products/raspberry-candy) |
 | Raspberry Candy Filter | Ethiopia | — | $26.00 / 200g | [购买](https://onacoffee.com.au/products/raspberry-candy-filter) |
-| Regional Aurea, Papua New Guinea, Washed | Papua New Guinea | Washed | $22.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-singleorigin-regional-aurea-papua-new-guinea-washed) |
 | Reserve Instant Coffee - Iris Estate Ambrosia, Panama, Nitrogen Washed | Panama | Washed | $49.00 / Default Title | [购买](https://onacoffee.com.au/products/reserve-instant-coffee-iris-estate-ambrosia-panama-nitrogen-washed) |
 | Single Origin Subscription (Espresso Coffee) | — | — | $66.00 / 3 x 200g | [购买](https://onacoffee.com.au/products/single-origin-subscription-espresso-coffee) |
 | Single Origin Subscription (Filter Coffee) | — | — | $44.00 / 2 x 200g | [购买](https://onacoffee.com.au/products/single-origin-subscription-filter) |
-| Thageini Karibu, Kenya, Supernatural | Kenya | Natural | $25.50 / 200g | [购买](https://onacoffee.com.au/products/cofosof-rare-thageini-karibu-kenya-supernatural) |
+| Thageini Lot 2226, Kenya, CM Washed Indigo | Kenya | Washed | $36.00 / 200g | [购买](https://onacoffee.com.au/products/espresso-reserve-z-rsoe1) |
 | Unwind | — | — | $22.00 / 200g | [购买](https://onacoffee.com.au/products/unwind) |
 | Yirgacheffe Amederaro Lot 1626, Ethiopia, Nitrogen Natural Jasper | Ethiopia | Natural | $23.75 / 200g | [购买](https://onacoffee.com.au/products/filter-yirgacheffe-amederaro-lot-1626-ethiopia-nitrogen-natural-jasper) |
 | Yirgacheffe Gelcha Kindu Lot 1426, Ethiopia, CM Natural Indigo | Ethiopia | Natural | $27.00 / 200g | [购买](https://onacoffee.com.au/products/yirgacheffe-gelcha-kindu-lot-1426-ethiopia-cm-natural-indigo) |
@@ -176,4 +174,4 @@ layout: default
 
 ---
 
-*数据质量：产地提取率 71/120 (59%) | 处理法提取率 60/120 (50%)*
+*数据质量：产地提取率 69/118 (58%) | 处理法提取率 57/118 (48%)*
